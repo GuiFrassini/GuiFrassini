@@ -18,6 +18,3 @@
 
 Entusiasta da tecnologia, estudante e profissional dedicado a fazer a diferença através da programação.
 
-## Contato
-
-Email: guilher33@gmail.com
